@@ -4,11 +4,15 @@
 import pytest
 
 # As you add functions to Lab7.py, import them here (uncomment the lines)
-# from Lab7 import calculate_rectangle_area
-# from Lab7 import calculate_hypotenuse
-# from Lab7 import is_even
-# from Lab7 import find_maximum
-# from Lab7 import grade_calculator
+from Lab7 import calculate_rectangle_area
+
+from Lab7 import calculate_hypotenuse
+
+from Lab7 import is_even
+
+from Lab7 import find_maximum
+
+from Lab7 import grade_calculator
 
 # Example test cases
 
