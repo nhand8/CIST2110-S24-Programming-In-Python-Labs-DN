@@ -96,7 +96,7 @@ count = 0
 for city, info in cities.items():
     if info["Population"] > 1000000:
         count += 1
-print(f"There are {count} cities with a population greater than 1 million."
+print(f"There are {count} cities with a population greater than 1 million.")
 # 15.  How many cities are in the USA? Use .items() to get a list of tuples. Use a for loop to iterate through the list of tuples.
 # Hint 1: You will need to use the second item in the tuple. The second item is a dictionary. IE. for city, info in cities.items():
 count_cities = 0
